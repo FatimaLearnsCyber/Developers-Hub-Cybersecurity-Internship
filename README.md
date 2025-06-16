@@ -39,10 +39,11 @@ This repository contains the projects and tasks completed during my Cybersecurit
 
 ## Repository Contents
 
-/security.log - Log file generated using Winston
 /SECURITY_CHECKLIST.md - Security best practices checklist
 /Cybersecurity_Internship_FinalReport_Fatima_Muhammad.pdf - Final report
-
+README.md 
+/Week1_Cybersecurity_Report - 
+/Week2_Cybersecurity_Report - 
 
 ---
 
